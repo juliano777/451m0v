@@ -15,8 +15,6 @@ Para câmera fornecemos o número do dispositivo de captura.
 # Carrega o video
 cap = cv2_VideoCapture(0)
 
-
-
 # Loop enquanto o vídeo é executado
 while cap.isOpened():
 

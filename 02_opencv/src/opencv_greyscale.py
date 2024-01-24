@@ -19,6 +19,5 @@ cv2_imshow('Gato em cores', cat)
 # Exibir a imagem em escala de cinza
 cv2_imshow('Gato em escala de cinza', grey_cat)
 
-# 
+# Espera o usuário pressionar uma tecla
 cv2_waitKey(0)
-
